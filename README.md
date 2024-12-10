@@ -15,10 +15,10 @@
 <a href="https://linkedin.com/in/rawnaq-naili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rawnaq-naili" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/raw-nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raw-nl" height="30" width="40" /></a>
 <a href="https://codesandbox.com/rawnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rawnl" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/rawneq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rawneq" height="30" width="40" /></a>
+<a href="https://kaggle.com/rawneq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rawneq" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@rawnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rawnl" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/www_rawnl97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www_rawnl97" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rawnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rawnl" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/rawnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rawnl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
