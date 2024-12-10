@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawnl" alt="rawnl" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript and React.js**
+<!-- - 🌱 I’m currently learning **TypeScript and React.js** -->
 
 - 💬 Ask me about **Node.js, Express.js, MongoDB, Sql, Java, JavaFX, JEE**
 
